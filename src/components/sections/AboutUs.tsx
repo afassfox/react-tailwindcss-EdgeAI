@@ -1,4 +1,4 @@
-import { Info } from "../cards/info";
+import { Info } from "../cards/Info";
 import { Container } from "../shared/Container";
 import { Paragraph } from "../shared/Paragraph";
 import { Title } from "../shared/Title";
@@ -20,7 +20,7 @@ export const AboutUs = () => {
           <Title>About Our AI Solution</Title>
           <Paragraph>
             We are on a mission to empower businesses with transformative AI
-            technology. Our team of experts combines industry‑leading research
+            technology. Our team of experts combines industry-leading research
             with innovative algorithms to deliver a platform that adapts to your
             unique needs. Join us and lead the digital revolution in your
             industry.
